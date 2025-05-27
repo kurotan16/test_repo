@@ -1,0 +1,9 @@
+body {background-color: black;}
+
+h1 {color: springgreen;}
+
+p {color: springgreen;
+   font: bold 18px/1 sans-serif;}
+   
+img { width: 300;
+      height: 200;}
